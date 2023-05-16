@@ -1,10 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyASCxHgCSpmVnQwVbLCHATcns5fJQFdmpY",
-    authDomain: "clips-36548.firebaseapp.com",
-    projectId: "clips-36548",
-    storageBucket: "clips-36548.appspot.com",
-    appId: "1:798864185458:web:f93bd21de7f956bffc4aeb"
-  }
+    apiKey: "AIzaSyBIZV2hYHVIArrCVfOSIidi-BN5_OAv9sg",
+    authDomain: "clips-ed0f1.firebaseapp.com",
+    projectId: "clips-ed0f1",
+    storageBucket: "clips-ed0f1.appspot.com",
+    appId: "1:1017766302050:web:01cde115f909e1829ddc3b",
+    measurementId: "G-PPN7125HPJ"
+  }  
 };
